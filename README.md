@@ -5,11 +5,11 @@
 Grass is a plant with narrow leaves growing from the base. A common kind of grass is used to cover the ground in a lawn and other places. Grass gets water from the roots in the ground. Grass is usually pigmented with the colour ‘green’. Grasses are monocotyledon, herbaceous plants.
 
 
-**Grass**
+### Grass
 
 The grasses include the "grass", of the family Poaceae (also called Gramineae). Also sometimes it is used to include the sedges (Cyperaceae) and the rushes (Juncaceae). These three families are not closely related but belong to different clades in the order Poales. They are similar adaptations to a common life-style.
 
-**Types**
+### Types
 
 The true grasses include cereals, bamboo and the grasses of lawns (turf) and grassland. Uses for graminoids include food (as grain, sprouted grain, shoots or rhizomes), drink (beer, whisky), pasture for livestock, thatching thatch, paper, fuel, clothing, insulation, construction, sports turf, basket weaving and many others.
 
@@ -24,7 +24,7 @@ Grasses are an important food for many animals, like deer, buffalo, cattle, mice
 
 Graminoids include some of the most versatile plant life-forms. They became widespread toward the end of the Cretaceous. Fossilized dinosaur dung (coprolites) have been found containing grass phytoliths (silica stones inside grass leaves).[Grasses have adapted to conditions in lush rain forests, dry deserts, cold mountains and even intertidal habitats, and are now the most widespread plant type. Grass is a valuable source of food and energy for many animals.Lawn grass is often planted on sports fields and in the area around a building. Sometimes chemicals and water is used to help lawns to grow.
 
-**Uses**
+### Uses
 
 People have used grasses for a long time. People eat parts of grasses. Corn, wheat, barley, oats, rice and millet are cereals, common grains whose seeds are used for food and to make alcohol such as beer.
 
