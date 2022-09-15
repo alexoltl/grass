@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Grass</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+            overflow:hidden;
+        }
+        img {
+            width: 100vw;
+            height: 100vh;
+        }
+    </style>
+</head>
+<body>
+
+    <img alt="Grass">
+
+    <script>
+        const maximum = 19;
+        const index = Math.floor(Math.random() * (maximum - 1 + 1)) + 1;
+        document.querySelector("img").src = `./images/${index}.jpg`;
+    </script>
+
+</body>
+</html>
