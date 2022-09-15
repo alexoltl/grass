@@ -28,15 +28,13 @@ People have used grasses for a long time. People eat parts of grasses. Corn, whe
 
 Sugar comes from sugar cane, which is also a plant in the grass family. People have grown grasses as food for farm animals for about 4,000 years. People use bamboo to build houses, fences, furniture and other things. Grass plants can also be used as fuel, to cover roofs, and to weave baskets. 
 
-n English, the word "grass" appears in several phrases. For example:
+In English, the word "grass" appears in several phrases. For example:
 
+ - "The grass is always greener on the other side" means "people are never happy with what they have and want something else."
 
+ - "Don't let the grass grow under your feet" means "Do something".
 
-"The grass is always greener on the other side" means "people are never happy with what they have and want something else."
-
-"Don't let the grass grow under your feet" means "Do something".
-
-"A snake in the grass" is about a person that will not be honest and will trick others.
+ - "A snake in the grass" is about a person that will not be honest and will trick others.
 
 Grass is sometimes used as a slang term for cannabis (also called pot, weed, or marijuana)
 The Grass type (Japanese: くさタイプ Grass type) is one of the eighteen types. Prior to changes in Generation IV, all damaging Grass-type moves were special, but they may now also be physical depending on the attack. Grass-type Pokémon are immune to Leech Seed. Grass-type Pokémon are immune to Leech Seed 
