@@ -1,10 +1,12 @@
 # Grass
 
 **Introduction**
+
 Grass is a plant with narrow leaves growing from the base. A common kind of grass is used to cover the ground in a lawn and other places. Grass gets water from the roots in the ground. Grass is usually pigmented with the colour ‘green’. Grasses are monocotyledon, herbaceous plants.
 
 
 **Details**
+
 The grasses include the "grass", of the family Poaceae (also called Gramineae). Also sometimes it is used to include the sedges (Cyperaceae) and the rushes (Juncaceae). These three families are not closely related but belong to different clades in the order Poales. They are similar adaptations to a common life-style.
 
 
