@@ -28,8 +28,6 @@ Graminoids include some of the most versatile plant life-forms. They became wide
 
 People have used grasses for a long time. People eat parts of grasses. Corn, wheat, barley, oats, rice and millet are cereals, common grains whose seeds are used for food and to make alcohol such as beer.
 
-
-
 Sugar comes from sugar cane, which is also a plant in the grass family. People have grown grasses as food for farm animals for about 4,000 years. People use bamboo to build houses, fences, furniture and other things. Grass plants can also be used as fuel, to cover roofs, and to weave baskets. 
 
 In English, the word "grass" appears in several phrases. For example:
@@ -42,7 +40,7 @@ In English, the word "grass" appears in several phrases. For example:
 
 Grass is also sometimes used as a slang term for cannabis (also called pot, weed, or marijuana)
 
-### Pokemon 
+### Pokemon (I'm just adding more because I ran out of things to say)
 
 The Grass type (Japanese: くさタイプ Grass type) is one of the eighteen types. Prior to changes in Generation IV, all damaging Grass-type moves were special, but they may now also be physical depending on the attack. Grass-type Pokémon are immune to Leech Seed. Grass-type Pokémon are immune to Leech Seed 
 Starting in Generation VI, Grass-type Pokémon are immune to powder and spore moves and Effect Spore.Grass types are tied with Rock in having the most weaknesses out of all types with five.
@@ -60,12 +58,11 @@ Forest's Curse adds the Grass type to the target's types. Grass-type attacks are
 When Grassy Terrain is in the effect, the power of Grass-type moves is increased by 30% (50% prior to Generation VIII) if the user is on the ground.
 
 
-
-Contest properties In contests, Grass-type moves are typically Clever moves, but can also be any of the other four contest conditions. As of Generation VIII, there are 112 Grass-type Pokémon or 12.27% of all Pokémon (counting those that are Grass-type in at least one of their forms), making it the third most common type after Normal and before Flying. A Pokémon with Protean or Libero will become a Grass-type Pokémon if it uses a Grass-type move. A Pokémon with Color Change, Imposter, Mimicry, RKS System, or Multitype will become a Grass-type Pokémon if (respectively) it is hit with a Grass-type move, is sent out against a Grass-type opponent, if the terrain is grassy, if it is holding a Grass Memory, or if it is holding a Meadow Plate or Grassium Z.
-
+In contests, Grass-type moves are typically Clever moves, but can also be any of the other four contest conditions. As of Generation VIII, there are 112 Grass-type Pokémon or 12.27% of all Pokémon (counting those that are Grass-type in at least one of their forms), making it the third most common type after Normal and before Flying. A Pokémon with Protean or Libero will become a Grass-type Pokémon if it uses a Grass-type move. A Pokémon with Color Change, Imposter, Mimicry, RKS System, or Multitype will become a Grass-type Pokémon if (respectively) it is hit with a Grass-type move, is sent out against a Grass-type opponent, if the terrain is grassy, if it is holding a Grass Memory, or if it is holding a Meadow Plate or Grassium Z.
 
 
-Since Generation VI, Grass-type Pokémon are also immune to Effect Spore.Only Grass-type Pokémon can have these Abilities. This does not include signature Abilities.Due to the decreased amount of types in the TCG, Grass generally adopts all Bug-type Pokémon under its typing. It also adopted Poison-type Pokémon prior to the Diamond & Pearl set, after which they were moved to Psychic.
+
+Since Generation VI, Grass-type Pokémon are also immune to Effect Spore.Only Grass-type Pokémon can have these Abilities. This does not include signature Abilities. Due to the decreased amount of types in the TCG, Grass generally adopts all Bug-type Pokémon under its typing. It also adopted Poison-type Pokémon prior to the Diamond & Pearl set, after which they were moved to Psychic.
 
 
 
