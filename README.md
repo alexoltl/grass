@@ -13,14 +13,9 @@ The grasses include the "grass", of the family Poaceae (also called Gramineae). 
 
 The true grasses include cereals, bamboo and the grasses of lawns (turf) and grassland. Uses for graminoids include food (as grain, sprouted grain, shoots or rhizomes), drink (beer, whisky), pasture for livestock, thatching thatch, paper, fuel, clothing, insulation, construction, sports turf, basket weaving and many others.
 
-
-
 Many grasses are short, but some grasses, like bamboo can grow very tall. Plants from the grass family can grow in many places, even if they are very cold or very dry. Several other plants that look similar but are not members of the grass family are also sometimes called grass; these include rushes, reeds, papyrus, and water chestnut.
 
-
-
 Grasses are an important food for many animals, like deer, buffalo, cattle, mice, grasshoppers, caterpillars, and many other grazers. Unlike other plants, grasses grow from the bottom, so when animals eat grass they usually do not destroy the part that grows. Without grass, dirt can wash away into rivers (erosion).
-
 
 Graminoids include some of the most versatile plant life-forms. They became widespread toward the end of the Cretaceous. Fossilized dinosaur dung (coprolites) have been found containing grass phytoliths (silica stones inside grass leaves). Grasses have adapted to conditions in lush rain forests, dry deserts, cold mountains and even intertidal habitats, and are now the most widespread plant type. Grass is a valuable source of food and energy for many animals.Lawn grass is often planted on sports fields and in the area around a building. Sometimes chemicals and water is used to help lawns to grow.
 
@@ -40,31 +35,21 @@ In English, the word "grass" appears in several phrases. For example:
 
 Grass is also sometimes used as a slang term for cannabis (also called pot, weed, or marijuana)
 
-### Pokemon (I'm just adding more because I ran out of things to say)
+### Pokemon
+(I'm just adding more because I ran out of things to say on grass)
 
 The Grass type (Japanese: くさタイプ Grass type) is one of the eighteen types. Prior to changes in Generation IV, all damaging Grass-type moves were special, but they may now also be physical depending on the attack. Grass-type Pokémon are immune to Leech Seed. Grass-type Pokémon are immune to Leech Seed 
 Starting in Generation VI, Grass-type Pokémon are immune to powder and spore moves and Effect Spore.Grass types are tied with Rock in having the most weaknesses out of all types with five.
 
-
-
 Since Generation I, a particular asset of Grass types is being the only type that is immune to Leech Seed. As of Generation VI, Grass-type Pokémon are also immune to powder and spore moves, such as Sleep Powder and Stun Spore. Additionally, Grass Pokémon are the only ones affected by Rototiller and Flower Shield. Those moves raise both attack stats or the physical Defense stat, respectively, when used.
-
-
 
 Forest's Curse adds the Grass type to the target's types. Grass-type attacks are resisted by seven types, so they're tied with Bug as the most resisted type. Those resistant types are best covered by Rock and Ground. As of Generation VI, Dark and Ghost have neutral matchups against every type that resists Grass.
 
-
-
 When Grassy Terrain is in the effect, the power of Grass-type moves is increased by 30% (50% prior to Generation VIII) if the user is on the ground.
-
 
 In contests, Grass-type moves are typically Clever moves, but can also be any of the other four contest conditions. As of Generation VIII, there are 112 Grass-type Pokémon or 12.27% of all Pokémon (counting those that are Grass-type in at least one of their forms), making it the third most common type after Normal and before Flying. A Pokémon with Protean or Libero will become a Grass-type Pokémon if it uses a Grass-type move. A Pokémon with Color Change, Imposter, Mimicry, RKS System, or Multitype will become a Grass-type Pokémon if (respectively) it is hit with a Grass-type move, is sent out against a Grass-type opponent, if the terrain is grassy, if it is holding a Grass Memory, or if it is holding a Meadow Plate or Grassium Z.
 
-
-
 Since Generation VI, Grass-type Pokémon are also immune to Effect Spore.Only Grass-type Pokémon can have these Abilities. This does not include signature Abilities. Due to the decreased amount of types in the TCG, Grass generally adopts all Bug-type Pokémon under its typing. It also adopted Poison-type Pokémon prior to the Diamond & Pearl set, after which they were moved to Psychic.
-
-
 
 Similar to the games, Grass-type Pokémon in the TCG are generally weak to Fire and resist Water. Grass-type Pokémon are strong against Fighting and Water Pokémon, whilst Metal Pokémon resisted it until the EX Power Keepers expansion set.
 Generation V introduced the most Grass-type Pokémon of any generation, with 21 (including Rotom's Mow form), and Generation VI introduced the fewest Grass-type Pokémon, with nine.
