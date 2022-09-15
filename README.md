@@ -1,4 +1,4 @@
-# Go touch grass please
+# Go touch grass
 
 ### Introduction
 
