@@ -22,7 +22,7 @@ Many grasses are short, but some grasses, like bamboo can grow very tall. Plants
 Grasses are an important food for many animals, like deer, buffalo, cattle, mice, grasshoppers, caterpillars, and many other grazers. Unlike other plants, grasses grow from the bottom, so when animals eat grass they usually do not destroy the part that grows. Without grass, dirt can wash away into rivers (erosion).
 
 
-Graminoids include some of the most versatile plant life-forms. They became widespread toward the end of the Cretaceous. Fossilized dinosaur dung (coprolites) have been found containing grass phytoliths (silica stones inside grass leaves).[Grasses have adapted to conditions in lush rain forests, dry deserts, cold mountains and even intertidal habitats, and are now the most widespread plant type. Grass is a valuable source of food and energy for many animals.Lawn grass is often planted on sports fields and in the area around a building. Sometimes chemicals and water is used to help lawns to grow.
+Graminoids include some of the most versatile plant life-forms. They became widespread toward the end of the Cretaceous. Fossilized dinosaur dung (coprolites) have been found containing grass phytoliths (silica stones inside grass leaves). Grasses have adapted to conditions in lush rain forests, dry deserts, cold mountains and even intertidal habitats, and are now the most widespread plant type. Grass is a valuable source of food and energy for many animals.Lawn grass is often planted on sports fields and in the area around a building. Sometimes chemicals and water is used to help lawns to grow.
 
 ### Uses
 
@@ -40,7 +40,10 @@ In English, the word "grass" appears in several phrases. For example:
 
  - "A snake in the grass" is about a person that will not be honest and will trick others.
 
-Grass is sometimes used as a slang term for cannabis (also called pot, weed, or marijuana)
+Grass is also sometimes used as a slang term for cannabis (also called pot, weed, or marijuana)
+
+### Pokemon 
+
 The Grass type (Japanese: くさタイプ Grass type) is one of the eighteen types. Prior to changes in Generation IV, all damaging Grass-type moves were special, but they may now also be physical depending on the attack. Grass-type Pokémon are immune to Leech Seed. Grass-type Pokémon are immune to Leech Seed 
 Starting in Generation VI, Grass-type Pokémon are immune to powder and spore moves and Effect Spore.Grass types are tied with Rock in having the most weaknesses out of all types with five.
 
