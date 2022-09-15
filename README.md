@@ -1,9 +1,10 @@
 # Grass
 
+**Introduction**
 Grass is a plant with narrow leaves growing from the base. A common kind of grass is used to cover the ground in a lawn and other places. Grass gets water from the roots in the ground. Grass is usually pigmented with the colour ‘green’. Grasses are monocotyledon, herbaceous plants.
 
 
-
+**Details**
 The grasses include the "grass", of the family Poaceae (also called Gramineae). Also sometimes it is used to include the sedges (Cyperaceae) and the rushes (Juncaceae). These three families are not closely related but belong to different clades in the order Poales. They are similar adaptations to a common life-style.
 
 
@@ -17,6 +18,7 @@ Many grasses are short, but some grasses, like bamboo can grow very tall. Plants
 
 
 Grasses are an important food for many animals, like deer, buffalo, cattle, mice, grasshoppers, caterpillars, and many other grazers. Unlike other plants, grasses grow from the bottom, so when animals eat grass they usually do not destroy the part that grows. Without grass, dirt can wash away into rivers (erosion).
+
 
 Graminoids include some of the most versatile plant life-forms. They became widespread toward the end of the Cretaceous. Fossilized dinosaur dung (coprolites) have been found containing grass phytoliths (silica stones inside grass leaves).[Grasses have adapted to conditions in lush rain forests, dry deserts, cold mountains and even intertidal habitats, and are now the most widespread plant type. Grass is a valuable source of food and energy for many animals.Lawn grass is often planted on sports fields and in the area around a building. Sometimes chemicals and water is used to help lawns to grow.
 
