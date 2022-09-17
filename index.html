@@ -3,6 +3,7 @@
 <head>
     <meta http-equiv="cache-control" content="max-age=0" />
     <meta http-equiv="cache-control" content="no-cache" />
+    <meta property="og:image" />
     <title>Grass</title>
     <style>
         * {
@@ -24,6 +25,7 @@
         const maximum = 19;
         const index = Math.floor(Math.random() * (maximum - 1 + 1)) + 1;
         document.querySelector("img").src = `./images/${index}.jpg`;
+        document.querySelector("meta[property='og:image']").content = `./images/${index}.jpg`;
     </script>
 
 </body>
